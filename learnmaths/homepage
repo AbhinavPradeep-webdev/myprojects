@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>LearnMaths</title>
+    <style>
+      body
+      {
+        background-image: url('https://media.proprofs.com/images/QM/user_images/2503852/New%20Project%20(5)(136).jpg');
+        background-repeat: no-repeat; 
+        background-attachment: fixed;  
+        background-size: cover;
+      }
+      .button {
+        padding: 15px 25px;
+        font-size: 24px;
+        text-align: center;
+        cursor: pointer;
+        outline: none;
+        color: #fff;
+        background-color: #4CAF50;
+        border: none;
+        border-radius: 15px;
+        box-shadow: 0 9px #999;
+      }
+
+      .button:hover {background-color: #3e8e41}
+
+      .button:active {
+        background-color: #3e8e41;
+        box-shadow: 0 5px #666;
+        transform: translateY(4px);
+      }
+    </style>
+
+  </head>
+  
+  
+    
+  <body>
+    <h1 style="font-family:Times New Roman;color:Blue;">Hello;</h1>
+    <br>
+    <h1 style="font-family:Times New Roman;color:Lime;"> Are you checking for MCQ for your maths exam and if you are in class 8 you are lucky.Get MCQ for maths all chapters in class 8.</h1>
+    <br>
+    <img src="https://media.tenor.com/images/1170597818a37a7c6e3e1d4baeb6e2eb/tenor.gif" alt="Italian Trulli">
+    <h1 style="font-family:Palatino;color:cyan;">
+      Click the button below to Start</h1>
+    <Button><a href="https://codeprojects.org/OVYP4RuFWxf5hYVAh5TjfDpCYAW5bLiNSbiRjDy69sw">Get The lessons</a></Button>
+    <br>
+    <br>
+    <Button><a href="https://codeprojects.org/GHKwvcQIZjP2dF1wGqIwr8JTLykJ7OVla2rdrZrbL48">Contact Us</a></Button>
+    <Button><a href="https://codeprojects.org/suJHLDPHJr8J-51yydhz70eqZvGvqQCgFpPDDgI59wE"> Check Time</a>
+    </Button>
+    <br>
+    <br>
+    <Button><a href="https://codeprojects.org/3wt32MN2pwX8DOUSKQzFe4usNZ4b-l04pT1PzZJe2RY"> Relogin</a>
+    </Button>
+  </body>
+</html>
